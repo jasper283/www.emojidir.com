@@ -1,0 +1,72 @@
+{
+  "common": {
+    "appName": "Emoji Directory",
+    "search": "検索",
+    "searchPlaceholder": "名前やキーワードで絵文字を検索...",
+    "category": "カテゴリ",
+    "allCategories": "すべてのカテゴリ",
+    "platform": "プラットフォーム",
+    "style": "スタイル",
+    "results": "結果",
+    "found": "見つかりました",
+    "emojis": "個の絵文字",
+    "categories": "カテゴリ",
+    "totalEmojis": "絵文字の総数",
+    "copyToClipboard": "クリップボードにコピー",
+    "copied": "コピーしました！",
+    "close": "閉じる",
+    "details": "詳細",
+    "download": "ダウンロード",
+    "downloading": "ダウンロード中..."
+  },
+  "header": {
+    "title": "Emoji Directory",
+    "description": "絵文字コレクションを閲覧・検索"
+  },
+  "footer": {
+    "appName": "Emoji Directory",
+    "supportedPlatforms": "Fluent Emoji、Noto Emoji、ネイティブプラットフォーム（システム自動検出）をサポート",
+    "statsText": "{count}個の絵文字 | {categories}カテゴリ"
+  },
+  "platforms": {
+    "fluent": "Fluent Emoji",
+    "nato": "Noto Emoji",
+    "native": "ネイティブプラットフォーム"
+  },
+  "platformDescriptions": {
+    "fluent": "Microsoftデザインシステム",
+    "nato": "Googleオープンソースデザイン",
+    "native": "システム自動検出"
+  },
+  "styles": {
+    "3d": "3D",
+    "color": "カラー",
+    "flat": "フラット",
+    "high-contrast": "ハイコントラスト"
+  },
+  "categories": {
+    "all": "すべて",
+    "Smileys & Emotion": "顔文字と感情",
+    "People & Body": "人と身体",
+    "Animals & Nature": "動物と自然",
+    "Food & Drink": "食べ物と飲み物",
+    "Travel & Places": "旅行と場所",
+    "Activities": "アクティビティ",
+    "Objects": "オブジェクト",
+    "Symbols": "シンボル",
+    "Flags": "旗",
+    "Component": "コンポーネント"
+  },
+  "search": {
+    "searchLabel": "検索:",
+    "noResults": "絵文字が見つかりません",
+    "tryDifferentKeywords": "別のキーワードを試してください"
+  },
+  "pagination": {
+    "showing": "{start}から{end}まで表示、全{total}件",
+    "first": "最初",
+    "previous": "前へ",
+    "next": "次へ",
+    "last": "最後"
+  }
+}

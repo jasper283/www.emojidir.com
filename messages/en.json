@@ -1,0 +1,72 @@
+{
+  "common": {
+    "appName": "Emoji Directory",
+    "search": "Search",
+    "searchPlaceholder": "Search emoji by name or keyword...",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "platform": "Platform",
+    "style": "Style",
+    "results": "Results",
+    "found": "Found",
+    "emojis": "emojis",
+    "categories": "categories",
+    "totalEmojis": "total emojis",
+    "copyToClipboard": "Copy to clipboard",
+    "copied": "Copied!",
+    "close": "Close",
+    "details": "Details",
+    "download": "Download",
+    "downloading": "Downloading..."
+  },
+  "header": {
+    "title": "Emoji Directory",
+    "description": "Browse and search emoji collections"
+  },
+  "footer": {
+    "appName": "Emoji Directory",
+    "supportedPlatforms": "Supports Fluent Emoji, Noto Emoji and Native Platform (auto-detect system)",
+    "statsText": "{count} emojis | {categories} categories"
+  },
+  "platforms": {
+    "fluent": "Fluent Emoji",
+    "nato": "Noto Emoji",
+    "native": "Native Platform"
+  },
+  "platformDescriptions": {
+    "fluent": "Microsoft Design System",
+    "nato": "Google Open Source Design",
+    "native": "Auto-detect System"
+  },
+  "styles": {
+    "3d": "3D",
+    "color": "Color",
+    "flat": "Flat",
+    "high-contrast": "High Contrast"
+  },
+  "categories": {
+    "all": "All",
+    "Smileys & Emotion": "Smileys & Emotion",
+    "People & Body": "People & Body",
+    "Animals & Nature": "Animals & Nature",
+    "Food & Drink": "Food & Drink",
+    "Travel & Places": "Travel & Places",
+    "Activities": "Activities",
+    "Objects": "Objects",
+    "Symbols": "Symbols",
+    "Flags": "Flags",
+    "Component": "Component"
+  },
+  "search": {
+    "searchLabel": "Search:",
+    "noResults": "No emoji found",
+    "tryDifferentKeywords": "Try different keywords"
+  },
+  "pagination": {
+    "showing": "Showing {start} to {end} of {total} items",
+    "first": "First",
+    "previous": "Previous",
+    "next": "Next",
+    "last": "Last"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "common": {
+    "appName": "Emoji Directory",
+    "search": "搜尋",
+    "searchPlaceholder": "按名稱或關鍵字搜尋表情符號...",
+    "category": "分類",
+    "allCategories": "所有分類",
+    "platform": "平台",
+    "style": "風格",
+    "results": "結果",
+    "found": "找到",
+    "emojis": "個表情",
+    "categories": "分類",
+    "totalEmojis": "表情總數",
+    "copyToClipboard": "複製到剪貼簿",
+    "copied": "已複製！",
+    "close": "關閉",
+    "details": "詳細資訊",
+    "download": "下載",
+    "downloading": "下載中..."
+  },
+  "header": {
+    "title": "Emoji Directory",
+    "description": "瀏覽和搜尋表情符號集合"
+  },
+  "footer": {
+    "appName": "Emoji Directory",
+    "supportedPlatforms": "支援 Fluent Emoji、Noto Emoji 和原生平台（自動偵測系統）",
+    "statsText": "共 {count} 個表情 | {categories} 個分類"
+  },
+  "platforms": {
+    "fluent": "Fluent Emoji",
+    "nato": "Noto Emoji",
+    "native": "原生平台"
+  },
+  "platformDescriptions": {
+    "fluent": "Microsoft 設計系統",
+    "nato": "Google 開源設計",
+    "native": "自動偵測系統"
+  },
+  "styles": {
+    "3d": "3D",
+    "color": "彩色",
+    "flat": "扁平",
+    "high-contrast": "高對比"
+  },
+  "categories": {
+    "all": "全部",
+    "Smileys & Emotion": "笑臉與情緒",
+    "People & Body": "人物與身體",
+    "Animals & Nature": "動物與自然",
+    "Food & Drink": "食物與飲料",
+    "Travel & Places": "旅行與地點",
+    "Activities": "活動",
+    "Objects": "物品",
+    "Symbols": "符號",
+    "Flags": "旗幟",
+    "Component": "組件"
+  },
+  "search": {
+    "searchLabel": "搜尋:",
+    "noResults": "找不到表情符號",
+    "tryDifferentKeywords": "請嘗試其他關鍵字"
+  },
+  "pagination": {
+    "showing": "顯示 {start} 到 {end} 項，共 {total} 項",
+    "first": "首頁",
+    "previous": "上一頁",
+    "next": "下一頁",
+    "last": "末頁"
+  }
+}
