@@ -74,9 +74,6 @@ EmojiDir 支持多语言界面，为全球用户提供本地化体验：
 - 🇺🇸 English (英语)
 - 🇯🇵 日本語 (日语)
 - 🇰🇷 한국어 (韩语)
-- 🇪🇸 Español (西班牙语)
-- 🇫🇷 Français (法语)
-- 🇩🇪 Deutsch (德语)
 - 更多语言持续添加中...
 
 ## 🚀 技术栈
@@ -267,27 +264,6 @@ find-emoji-archive/
 └── next.config.js       # Next.js 配置
 ```
 
-## 🤝 贡献指南
-
-我们欢迎所有形式的贡献！
-
-### 如何贡献
-
-1. Fork 本仓库
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的改动 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启一个 Pull Request
-
-### 贡献内容
-
-- 🐛 报告 Bug
-- 💡 提出新功能建议
-- 📝 改进文档
-- 🌐 添加新的语言翻译
-- 🎨 添加新的 Emoji 平台
-- ⚡ 性能优化
-
 ## 📄 数据格式
 
 每个 emoji 的 metadata.json 格式示例：
@@ -317,9 +293,6 @@ find-emoji-archive/
 ## 🔗 相关链接
 
 - 🌐 **官方网站**: [https://emojidir.com](https://emojidir.com)
-- 📧 **联系我们**: support@emojidir.com
-- 🐦 **Twitter**: [@emojidir](https://twitter.com/emojidir)
-- 📱 **GitHub**: [github.com/emojidir](https://github.com/emojidir)
 
 ## 🌟 支持项目
 
@@ -334,7 +307,7 @@ find-emoji-archive/
 
 有任何问题或建议？欢迎联系我们：
 
-- 📧 Email: support@emojidir.com
+- 📧 Email: kinfai1992@gmail.com
 - 💬 GitHub Issues: [提交问题](https://github.com/jasper283/www.emojidir.com/issues)
 - 🌐 Website: [https://emojidir.com](https://emojidir.com)
 
@@ -346,7 +319,6 @@ find-emoji-archive/
 - [Next.js](https://nextjs.org/) - 强大的 React 框架
 - [Tailwind CSS](https://tailwindcss.com/) - 优秀的 CSS 框架
 - [Vercel](https://vercel.com/) - 提供优质的托管服务
-- 所有贡献者和用户的支持
 
 ---
 
