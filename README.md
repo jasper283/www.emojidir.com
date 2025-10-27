@@ -4,6 +4,8 @@
 [![许可证](https://img.shields.io/badge/许可证-MIT-green.svg)](LICENSE)
 [![多语言支持](https://img.shields.io/badge/多语言-国际化-orange.svg)](https://emojidir.com)
 
+❗❗仓库已迁移到 [emojidir.com](https://github.com/jasper283/emojidir.com)
+
 ## 🌟 关于 EmojiDir
 
 [**EmojiDir.com**](https://emojidir.com) 是一个全球领先的 **Emoji 表情符号聚合平台**，为用户提供最全面的 emoji 浏览、搜索和下载服务。我们汇集了来自 **Microsoft Fluent Emoji**、**Nato Emoji**、**Apple/iOS Emoji** 等多个主流平台的海量表情符号资源。
